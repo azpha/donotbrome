@@ -52,13 +52,13 @@ function App() {
                 </div>
                 <hr />
                 <div id={"footer"}>
-                    <p>donotbro.me by <a href={"https://github.com/zevhr/pause"} target={"_blank"} rel={"noreferrer"}>Alex</a><br />
+                    <p>donotbro.me by <a href={"https://github.com/azpha/donotbrome"} target={"_blank"} rel={"noreferrer"}>Alex</a><br />
                     Design & content pretty stolen from <a href={"https://dontasktoask.com"} target={"_blank"} rel={"noreferrer"}>dontasktoask.com</a></p>
                     <div className={"footeritems"}>
                         <a href={"https://twitter.com/zstreamss"} target={"_blank"} rel={"noreferrer"}>
                             <i className="fa fa-twitter-square" aria-hidden="true"></i>
                         </a>
-                        <a href={"https://github.com/zevhr"} target={"_blank"} rel={"noreferrer"}>
+                        <a href={"https://github.com/azpha"} target={"_blank"} rel={"noreferrer"}>
                             <i className="fa fa-github-square" aria-hidden="true"></i>
                         </a>
                         <a href={"mailto:hi@thatalex.dev"} target={"_blank"} rel={"noreferrer"}>
