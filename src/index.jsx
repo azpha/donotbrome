@@ -52,7 +52,7 @@ function App() {
                 </div>
                 <hr />
                 <div id={"footer"}>
-                    <p>donotbro.me by <a href={"https://github.com/azpha/donotbrome"} target={"_blank"} rel={"noreferrer"}>Alex</a><br />
+                    <p>donotbro.me by <a href={"https://thatalex.dev"} target={"_blank"} rel={"noreferrer"}>Alex</a><br />
                     Design & content pretty stolen from <a href={"https://dontasktoask.com"} target={"_blank"} rel={"noreferrer"}>dontasktoask.com</a></p>
                     <div className={"footeritems"}>
                         <a href={"https://twitter.com/zstreamss"} target={"_blank"} rel={"noreferrer"}>
