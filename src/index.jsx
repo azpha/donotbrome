@@ -1,8 +1,7 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './main.css';
 
-function App() {
+const App = () => {
     return (
         <div id={"container"}>
             <div id={"content"}>
@@ -19,14 +18,14 @@ function App() {
                             <br />
                             Dwight: ???
                             <br />
-                            Jim is typing...
+                            Dwight: what???
                         </p>
                     </div>
                     <p>I hate this. This is bad for so many reasons;</p>
                     <ul>
                         <li>Why would you start a sentence like that?</li>
                         <li>Not only that, but why would you END it like that?</li>
-                        <li>Also, why won't you respond for lightyears after even if I respond immediately??</li>
+                        <li>You're RIGHT there, why don't you respond for lightyears after even if I respond immediately??</li>
                     </ul>
                     <p>Obviously, they're probably saying this;</p>
                     <div className={"code_block"}>
@@ -52,17 +51,17 @@ function App() {
                 </div>
                 <hr />
                 <div id={"footer"}>
-                    <p>donotbro.me by <a href={"https://thatalex.dev"} target={"_blank"} rel={"noreferrer"}>Alex</a><br />
+                    <p>nobro.alexav.gg by <a href={"https://alexav.gg"} target={"_blank"} rel={"noreferrer"}>Alex</a><br />
                     Design & content pretty stolen from <a href={"https://dontasktoask.com"} target={"_blank"} rel={"noreferrer"}>dontasktoask.com</a></p>
                     <div className={"footeritems"}>
-                        <a href={"https://twitter.com/zstreamss"} target={"_blank"} rel={"noreferrer"}>
-                            <i className="fa fa-twitter-square" aria-hidden="true"></i>
+                        <a href={"https://twitter.com/avvex__"} target={"_blank"} rel={"noreferrer"}>
+                            <i className="fa-brands fa-twitter"></i>
                         </a>
                         <a href={"https://github.com/azpha"} target={"_blank"} rel={"noreferrer"}>
-                            <i className="fa fa-github-square" aria-hidden="true"></i>
+                            <i className="fa-brands fa-github" aria-hidden="true"></i>
                         </a>
-                        <a href={"mailto:hi@thatalex.dev"} target={"_blank"} rel={"noreferrer"}>
-                            <i className="fa fa-envelope" aria-hidden="true"></i>
+                        <a href={"https://mast.thatalex.dev"} target={"_blank"} rel={"noreferrer"}>
+                            <i className="fa-brands fa-mastodon" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>
